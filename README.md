@@ -47,12 +47,12 @@ To run the tests use: `npm run test`
 ## FEATURES
 
 - It's a **React SPA** ❤
-- **PRODUCT COMPONENTS**:
+- **PRODUCT COMPONENTS:**
 - Simulated returns static **JSON data**.
 - Loaded from JSON instead of API
-- **FORM COMPONENTS**
-- Used "useForm" hooks.
-- Validated inputs fields. User will get error in case of incorrect values.
+- **FORM COMPONENTS:**
+- Created **"useForm" custom hooks.**
+- Validated inputs fields. **User will get error in case of incorrect values.**
 - You will get response in header after submission.
 - Implemented components are tested with **Jest**.
 
