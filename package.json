@@ -1,7 +1,12 @@
 {
   "name": "code-challenge",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": {
+    "url": "git@github.com:dhirendra761/JMTAl-Ghanim-Code-Challenge.git",
+    "type": "git"
+  },
+  "author": "Dhirendra S <dhirendrasingh.822@gmail.com>)",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
