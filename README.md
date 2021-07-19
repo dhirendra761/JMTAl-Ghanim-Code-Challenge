@@ -19,10 +19,11 @@ instead of doing an actual integration.
 Please try and finish it ASAP so that we cab have a closure BY This week.
 
 **HelloFresh app overview**
-<img src="./readme-assets/1st_assignment.JPG" /><br/> <img
-src="./readme-assets/2nd_assignment.JPG" />
+<img src="./readme-assets/1st_assignment.JPG" />
+<img src="./readme-assets/2nd_assignment.JPG" />
 
-**Mobile View** <img src="./readme-assets/mobile_view.JPG" />
+**Mobile View** 
+<img src="./readme-assets/mobile_view.JPG" />
 
 ## SOLUTION
 
