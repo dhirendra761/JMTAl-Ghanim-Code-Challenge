@@ -52,7 +52,7 @@ To run the tests use: `npm run test`
 - Loaded from JSON instead of API
 - **FORM COMPONENTS**
 - Used "useForm" hooks.
-- Validated inputs field
+- Validated inputs fields. User will get error in case of incorrect values.
 - You will get response in header after submission.
 - Implemented components are tested with **Jest**.
 
